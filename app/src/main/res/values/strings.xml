@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TempCalc</string>
+    <string name="value">Value to convert:</string>
+    <string name="temp_label_1">From:</string>
+    <string name="temp_label_2">To:</string>
+    <string name="calc_button">Convert</string>
+    <string name="converted_value">Result</string>
+</resources>
